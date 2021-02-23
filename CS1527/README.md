@@ -1,20 +1,20 @@
-### Useful Resources
-- **Data Structures and Algorithms in Python**
-  
-    Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser
-    
-    Wiley, 2013.
+## Useful Resources
 
+### Websites
 
-- **Python 3 Object-Oriented Programming**
+- [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)  
+  Visualize code execution
 
-    Dusty Phillips
-    
-    PACKT Publishing, 2018.
+### Books
 
+- **Data Structures and Algorithms in Python**  
+  Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser  
+  Wiley, 2013.
 
-- **The Python Workbook: A Brief Introduction with Exercises and Solutions**
+- **Python 3 Object-Oriented Programming**  
+  Dusty Phillips  
+  PACKT Publishing, 2018.
 
-    Ben Stephenson
-
-    Springer, 2019.
+- **The Python Workbook: A Brief Introduction with Exercises and Solutions**  
+  Ben Stephenson  
+  Springer, 2019.
