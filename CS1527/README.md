@@ -1,4 +1,12 @@
-### Useful Resources
+## Useful Resources
+
+### Websites
+
+- [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)  
+  Visualize code execution
+
+### Books
+
 - **Data Structures and Algorithms in Python**  
   Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser  
   Wiley, 2013.
