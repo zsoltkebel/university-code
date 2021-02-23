@@ -2,19 +2,19 @@
 
 ### Websites
 
-- [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)  
+- [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)\
   Visualize code execution
 
 ### Books
 
-- **Data Structures and Algorithms in Python**  
-  Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser  
+- **Data Structures and Algorithms in Python**\
+  Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser\
   Wiley, 2013.
 
-- **Python 3 Object-Oriented Programming**  
-  Dusty Phillips  
+- **Python 3 Object-Oriented Programming**\
+  Dusty Phillips\
   PACKT Publishing, 2018.
 
-- **The Python Workbook: A Brief Introduction with Exercises and Solutions**  
-  Ben Stephenson  
+- **The Python Workbook: A Brief Introduction with Exercises and Solutions**\
+  Ben Stephenson\
   Springer, 2019.
