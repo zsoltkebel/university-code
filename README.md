@@ -1,5 +1,4 @@
 # University of Aberdeen - Computing Science
-### Code written by *Zsolt Kébel* for the following courses:
 
 Code | Course | Language | Year
 ---- | ------ | -------- | ----
