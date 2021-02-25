@@ -15,3 +15,6 @@ Code | Course | Language | Year
 ### Level 3
 Code | Course | Language | Year
 ---- | ------ | -------- | ----
+
+## Disclaimer
+The content of this repository is not affiliated in any way to the University of Aberdeen. The source code here is not representative of perfect solutions to specific problems. This repository was created to help organize my code written while studying at the University of Aberdeen.
