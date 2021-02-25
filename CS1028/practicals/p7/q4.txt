@@ -1,0 +1,16 @@
+# Author: Zsolt Kébel
+# Date: 18/11/2020
+
+inputFilename = input("Input Filename: ")
+outputFilename = input("Output Filename: ")
+
+inputFile = open(inputFilename, "r")
+outputFile = open(outputFilename, "w")
+
+ # haha
+for line in inputFile:
+    if line.strip()[0] != "#":
+        outputFile.write(line)
+
+inputFile.close()
+outputFile.close()

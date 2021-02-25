@@ -1,0 +1,13 @@
+
+inputFilename = input("Input Filename: ")
+outputFilename = input("Output Filename: ")
+
+inputFile = open(inputFilename, "r")
+outputFile = open(outputFilename, "w")
+
+for line in inputFile:
+    if line.strip()[0] != "#":
+        outputFile.write(line)
+
+inputFile.close()
+outputFile.close()
