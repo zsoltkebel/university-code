@@ -27,5 +27,5 @@ def search(path, filename):
 
 
 my_path = os.path.abspath(os.path.dirname(os.path.abspath(__file__)))
-absoult_path = '/Users/zsoltkebel/Developer/repos/university-code/'  # NOTE THAT THIS IS DIFFERENT ON EVERY COMPUTER
+absoult_path = '//'  # NOTE THAT THIS IS DIFFERENT ON EVERY COMPUTER
 print(search(absoult_path, 'array_stack.py'))
