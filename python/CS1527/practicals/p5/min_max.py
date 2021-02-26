@@ -5,12 +5,16 @@
 
 def find_min_max(s):
     if len(s) > 1:
-        (min_val, max_val) = find_min_max(s[1:])
+        min_val, max_val = find_min_max(s[1:])
         return min(s[0], min_val), max(s[0], max_val)
-    return s[0], s[0]
+    elif len(s) == 1:
+        return s[0], s[0]  # base case
+    else:
+        return None, None
 
 
-s = (1, 3, 5, 2, 0, 6, 10, 3, 4)
+s = [2, 1, 4, 5, 10, 0, 3, -3]
+
 minimum,  maximum = find_min_max(s)
 
 print('min:', minimum)
