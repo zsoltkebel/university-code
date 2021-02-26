@@ -8,15 +8,13 @@ import os
 
 counter = 0
 for filename in os.listdir():
-    if filename.startswith("e10") and filename.endswith(".py"):
+    if filename.startswith("virus") and filename.endswith(".py"):
         counter += 1
 
-source = open("virus.py", "r")
-content = source.read()
-print(content)
-
-target = open(f"e10_{counter}.py", "a")
-target.write(content)
+with open("virus.py", "r") as source, open(f"virus_{counter}.py", "a") as target:
+    content = source.read()
+    print(content)
+    target.write(content)
 
 source.close()
 target.close()
