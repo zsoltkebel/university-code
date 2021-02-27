@@ -1,0 +1,1 @@
+[Quickstart Guide for Python](https://gist.github.com/zsoltkebel/0cce96fc0f02324afdf087f71deedbe7)
