@@ -1,0 +1,2 @@
+Another file containing
+some lines.
