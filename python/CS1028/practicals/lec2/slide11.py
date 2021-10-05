@@ -1,0 +1,10 @@
+num1 = float(input("Please enter first number: "))
+num2 = float(input("Please enter second number: "))
+
+print("The result of adding two NUMBERS are: ", num1 + num2)
+print("The result of substracting two NUMBERS is: ", num1 - num2)
+print("The result of mul two NUMBERS is: ", num1 * num2)
+print(num1, "to the power of", num2, "is: ", num1** num2)
+print("The result of num1 divided by num2: ", num1 / num2)
+print("the result of num1 int div by num2: ", num1 // num2)
+print("The reaminder of num1 div by num2: ", num1 % num2)

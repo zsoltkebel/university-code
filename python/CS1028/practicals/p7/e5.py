@@ -9,7 +9,7 @@ words = wordsFile.readlines()
 
 numWords = len(words)
 
-# generating two random numbers for getting two different words
+# generating two random NUMBERS for getting two different words
 firstWordIndex = random.randint(0, numWords - 1)
 secondWordIndex = firstWordIndex
 

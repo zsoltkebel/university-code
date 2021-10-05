@@ -11,6 +11,9 @@ Code | Course | Language | Year
 ### Level 2
 Code | Course | Language | Year
 ---- | ------ | -------- | ----
+[CS1031](html/CS1031) | Web Development | HTML, CSS | 21/22
+[CS2019](sql/CS2019) | Databases and Data Management | SQL | 21/22
+[CS2020](java/CS2020) | Software Programming | Java | 21/22
 
 ### Level 3
 Code | Course | Language | Year
